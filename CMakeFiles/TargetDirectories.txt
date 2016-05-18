@@ -1,0 +1,2 @@
+/home/gunjan/HM_2016/CMakeFiles/testing.dir
+/home/gunjan/HM_2016/CMakeFiles/humandetect.dir
